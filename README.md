@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/plex-logo.svg" alt="Plex" width="220">
+  <img src="assets/plex-logo.svg?v2" alt="Plex" width="220">
 </p>
 
 # Plex Players — Architecture (reverse-engineered)
